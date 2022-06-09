@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/WeatherConditionsApp.iml" filepath="$PROJECT_DIR$/.idea/WeatherConditionsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather.db/weather.db.iml" filepath="$PROJECT_DIR$/weather.db/weather.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather.model/weather.model.iml" filepath="$PROJECT_DIR$/weather.model/weather.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather.net/weather.net.iml" filepath="$PROJECT_DIR$/weather.net/weather.net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather.ui/weather.ui.iml" filepath="$PROJECT_DIR$/weather.ui/weather.ui.iml" />
+    </modules>
+  </component>
+</project>
